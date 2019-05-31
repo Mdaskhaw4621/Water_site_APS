@@ -1,2 +1,2 @@
 <h1>Water: Saving is Preserving</h1>
-<img src="images/logo.png">
+<p aling="center"><img src="images/logo.png"></p>
